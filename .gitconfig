@@ -1,0 +1,5 @@
+[user]
+	name = Gabriel Rodriguez
+	email = gaby.e.rodriguez@gmail.com
+[alias]
+	lg = log -100 --color --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit

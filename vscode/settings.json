@@ -1,0 +1,85 @@
+{
+  "git.ignoreMissingGitWarning": true,
+  "window.zoomLevel": 0,
+  "breadcrumbs.enabled": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "diffEditor.ignoreTrimWhitespace": true,
+  "git.autofetch": true,
+  "git.confirmSync": false,
+  "git.enableSmartCommit": true,
+  "workbench.colorCustomizations": {
+    "tab.activeBorder": "#FFEB3B",
+    "tab.unfocusedActiveBorder": "#000000",
+    "activityBar.activeBorder": "#F57F17"
+  },
+  "workbench.startupEditor": "none",
+  "editor.formatOnPaste": true,
+  "files.trimFinalNewlines": true,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.cursorStyle": "line",
+  "editor.fontSize": 15,
+  "editor.fontFamily": "Hasklig, Consolas, 'Courier New', monospace",
+  "editor.guides.bracketPairs": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "redhat.telemetry.enabled": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.validate": [
+    "javascript"
+],
+  "telemetry.telemetryLevel": "off",
+  "files.eol": "\n",
+  "markdownlint.config": {
+   "default": true,
+   "header-increment": true,
+   "heading-style": {
+      "style": "atx"
+   },
+   "ul-style": {
+      "style": "asterisk"
+   },
+   "list-indent": true,
+   "ul-start-left": false,
+   "ul-indent": {
+      "indent": 3,
+      "start_indented": true
+   },
+   "no-trailing-spaces": true,
+   "no-hard-tabs": true,
+   "no-reversed-links": true,
+   "no-multiple-blanks": { "maximum": 2 },
+   "commands-show-output": true,
+   "line-length": {
+      "line_length": 90,
+      "code_block_line_length": 140
+   },
+   "no-missing-space-atx": true,
+   "no-multiple-space-atx": true,
+   "heading-start-left": true,
+   "no-duplicate-header": {
+      "allow_different_nesting": true
+   },
+   "no-trailing-punctuation":{
+      "punctuation":  ".,;:"
+   },
+   "no-bare-urls": true,
+   "hr-style": { "style": "---" },
+   "no-emphasis-as-heading": false,
+   "no-space-in-emphasis": true,
+   "no-space-in-code": true,
+   "no-space-in-links": true,
+   "fenced-code-language": true,
+   "first-line-heading": true,
+   "no-empty-links": false,
+   "no-alt-text": false,
+   "code-block-style": { "style": "fenced" },
+   "single-trailing-newline": true,
+   "code-fence-style": { "style": "backtick" }
+},
+"editor.tabSize": 3,
+"editor.accessibilitySupport": "off",
+"files.trimTrailingWhitespace": true,
+"workbench.colorTheme": "One Dark Pro Darker"
+}
