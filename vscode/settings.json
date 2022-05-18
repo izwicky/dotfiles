@@ -78,8 +78,14 @@
    "single-trailing-newline": true,
    "code-fence-style": { "style": "backtick" }
 },
+"remote.SSH.remotePlatform": {
+   "build.vpc": "linux"
+},
 "editor.tabSize": 3,
 "editor.accessibilitySupport": "off",
 "files.trimTrailingWhitespace": true,
-"workbench.colorTheme": "One Dark Pro Darker"
+"editor.bracketPairColorization.enabled": true,
+"editor.guides.bracketPairsHorizontal": true,
+"editor.guides.highlightActiveBracketPair": true,
+"workbench.colorTheme": "Visual Studio Dark",
 }
